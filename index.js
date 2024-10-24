@@ -22,10 +22,10 @@
 
 // username@domain.com
 
-// const emailPola = /[a-z]\d+#+@+gmail+\.[a-z]/
-// const email = "arifd12#@gmail.com"
+const emailPola = /[a-z]\d+#+@+gmail+\.[a-z]/
+const email = "arifd12#@gmail.com"
 
-// console.log(emailPola.test(email));
+console.log(emailPola.test(email));
 
 
 let age = 20
